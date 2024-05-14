@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aiassistsolution/static/css/main.5c8bc83b.css",
+    "main.js": "/aiassistsolution/static/js/main.2109cdcc.js",
+    "static/media/chatbot.png": "/aiassistsolution/static/media/chatbot.6b650e351dac298a08a4.png",
+    "index.html": "/aiassistsolution/index.html",
+    "main.5c8bc83b.css.map": "/aiassistsolution/static/css/main.5c8bc83b.css.map",
+    "main.2109cdcc.js.map": "/aiassistsolution/static/js/main.2109cdcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c8bc83b.css",
+    "static/js/main.2109cdcc.js"
+  ]
+}
